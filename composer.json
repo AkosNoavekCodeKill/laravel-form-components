@@ -1,0 +1,12 @@
+{
+    "name": "akosnoavek/laravel-form-components",
+    "type": "library",
+    "license": "./licence",
+    "autoload": {
+        "psr-4": {
+            "Akosnoavek\\LaravelFormComponents\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
